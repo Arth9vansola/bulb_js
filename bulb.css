@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#bulb {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin: 50px 50px;
+    border: 1px dashed rgb(168, 40, 40);
+}
+
+button {
+    margin-left: 11.5%;
+    height: 30px;
+    width: 50px;
+    padding: auto;
+    background-color: cyan;
+    border: none;
+    border-radius: 5px;
+
+
+}
